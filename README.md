@@ -125,4 +125,4 @@ This ensures **immediate detection** and **rapid emergency response**.
 
 ## Conclusion
 
-HyperTronics provides an **affordable, portable, and reliable safety solution** for mining environments. By combining fall detection, gas sensing, and real-time SMS alerts, it reduces emergency response times and enhances worker protection.
+HyperTronics provides an **affordable, portable, and reliable safety solution** for mining environments. By combining fall detection, gas sensing and real-time SMS alerts, it reduces emergency response times and enhances worker protection.
